@@ -1,10 +1,10 @@
-# akatsuki/nvim
+
 ## Akatsuki is a nvim configuration created as a result of the inspiration from a few dynamic and awesome configs.
 ## I'd like to thank <br><br>
 - Big man teej : [Teej](https://github.com/tjdevries)
 - Josean Martinez : [Josean](https://github.com/josean-dev)
 - Adib Hanna : [Adib](https://github.com/adibhanna)
-# Feel free to tinker and use the config under the MIT license and star it if you like!
+## Feel free to tinker and use the config under the MIT license and star it if you like!
 <a href="https://dotfyle.com/codetyri0n/akatsuki-nvim"><img src="https://dotfyle.com/codetyri0n/akatsuki-nvim/badges/plugins?style=flat" /></a>
 <a href="https://dotfyle.com/codetyri0n/akatsuki-nvim"><img src="https://dotfyle.com/codetyri0n/akatsuki-nvim/badges/leaderkey?style=flat" /></a>
 <a href="https://dotfyle.com/codetyri0n/akatsuki-nvim"><img src="https://dotfyle.com/codetyri0n/akatsuki-nvim/badges/plugin-manager?style=flat" /></a>
